@@ -1,0 +1,51 @@
+
+body
+{background: #CCCCCC}
+
+#banner
+{text-align: center;}
+
+.principal
+
+
+h1
+{color: yellow;
+text-align: center;}
+
+
+
+h2
+{color: darkblue;
+text-align: center;}
+
+
+
+
+h3
+{color: black;
+text-align: center;}
+p
+{text-align: center;}
+
+
+
+{color: yellow;}
+
+#missao
+{font-size: 25px;}
+
+.itens
+{font-style: italic;}
+
+.benefícios {background: #A9A9A9; box-shadow: 3px 3px black, -1em 0 0.4em darkred;
+}
+
+
+
+ul
+{display: inline-block;
+vertical-align: top;}
+
+.imagembeneficios
+
+
